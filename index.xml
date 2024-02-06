@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<moncv>
+
+    <Surname id="DESCHAMPS">DESCHAMPS</Surname>
+    <Name id="Delphine"> Delphine</Name>
+    <Date id="age">40</Date>
+    <Adresse id="14 rue des cevennes, 30190 BOUCOIRAN">14, rue des cévennes 30190 BOUCOIRAN</Adresse>
+    <Mail id="chrale2822@hotmail.fr"> chrale2822@hotmail.fr</Mail>
+    <Tel id="0629700977">0629700977</Tel>
+    
+    <EXP>
+        <xp1 id="année">2018</xp1> 
+        <intitulée id="Exp">Bénévole réunions pluridisciplinaires Conseil général du gard</intitulée>
+        <xp2 id="année">2013</xp2> 
+        <intitulée id="Exp"> Ouvrière viticole</intitulée>
+        <xp3 id="année">2006</xp3>
+        <intitulée id="Exp">Agent de sécurité</intitulée>
+        <xp4 id="année">2002/2006</xp4> 
+        <intitulée id="Exp">Secrétaire</intitulée>
+        <xp5 id="année">2004/2005</xp5>
+        <intitulée id="Exp"> V.R.P (Porte à porte)</intitulée> 
+        <xp6 id="année">2003</xp6>
+         <intitulée id="Exp">Employée qualifiée Géant Traiteur charcuterie</intitulée>
+        <xp7 id="année">2003</xp7>
+        <intitulée id="Exp">Vendeuse de livres France Loisirs</intitulée>
+        <xp8 id="année">1999/2003</xp8>
+         <intitulée id="Exp">Employée de commerce</intitulée>
+    </EXP>
+
+    <FORMATION>
+        <Diplome id="1">2018 : Pré-qualification bureautique CRFP/AFPA</Diplome>
+        <Diplome id="2">2006 : Secrétaire médico-sociale CAP/BEP ou équivalent</Diplome>
+        <Diplome id="3">2003 : BEP VAM Vente en distribution ESFA Nîmes</Diplome>
+        <Diplome id="4">2000 : BEPC Brevet des collèges Feuchères Nîmes</Diplome>   
+    </FORMATION>
+
+    <COMPETENCES>
+      <cmp id="1">Gestion administrative (Bilan, Bulletin de salaire, Compte, Lettre de contentieux)</cmp>
+            <cmp id="2">Gestion des stocks et des approvisionnements</cmp> 
+            <cmp id="3">Méthode de classement et d'archivage</cmp> 
+            <cmp id="4">Organisation et planification des activités</cmp>
+       
+    </COMPETENCES>
+
+<Autrescompetences>
+        <Autres id="1"> Permis B, possession d'un véhicule</Autres>
+        <Autres id="2">Anglais : Intermédiaire</Autres>
+</Autrescompetences>
+
+    
+</moncv>
